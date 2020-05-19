@@ -29,7 +29,7 @@ def configure_logging():
 
 class Bot:
     """
-    Eco bot для vk.com
+    Echo bot для vk.com
     Use python 3.8
     """
     def __init__(self, group_id, token):
