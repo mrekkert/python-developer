@@ -62,7 +62,7 @@ class Bot:
         """
         if event.type == VkBotEventType.MESSAGE_NEW:
             log.debug('отвечаем на сообщение')
-            self.api.messages.send(message='зря вы сюда написали',
+            self.api.messages.send(message='Привет!',
                                    random_id=randint(0, 2 ** 20),
                                    peer_id=event.message.peer_id
                                    )
