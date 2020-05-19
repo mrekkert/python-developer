@@ -1,0 +1,8 @@
+2020-05-07 11:03:19,410, DEBUG, отвечаем на сообщение
+2020-05-07 11:03:19,518, DEBUG, cant process event like this VkBotEventType.MESSAGE_REPLY
+2020-05-07 11:03:39,337, DEBUG, �������� �� ���������
+2020-05-07 11:03:39,498, DEBUG, cant process event like this VkBotEventType.MESSAGE_REPLY
+2020-05-07 11:04:23,368, DEBUG, отвечаем на сообщение
+2020-05-07 11:04:23,535, DEBUG, cant process event like this VkBotEventType.MESSAGE_REPLY
+2020-05-15 13:56:34,387, DEBUG, отвечаем на сообщение
+2020-05-15 13:56:34,591, INFO, cant process event like this VkBotEventType.MESSAGE_REPLY
